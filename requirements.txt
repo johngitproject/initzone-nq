@@ -1,0 +1,3 @@
+# Stdlib uniquement pour F1-F4 (argparse, csv, math, pathlib, datetime, collections, typing).
+# pandas optionnel : active data_loader.resample_5min / to_dataframe (non requis par dca_atr).
+pandas>=2.0; python_version >= "3.9"

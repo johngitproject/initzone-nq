@@ -1,0 +1,14 @@
+# Données brutes NT8 : jamais committées (licence d'origine, re-export local)
+donnees/
+*.Last.txt
+out/
+results_repro/
+backtest_out/
+
+# Environnement, caches, OS
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
